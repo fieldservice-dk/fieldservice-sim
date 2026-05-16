@@ -4,7 +4,7 @@
 > dispatching technicians, tracking jobs, and managing service operations
 > without signing up. Built with React 19 + Vite.
 
-Maintained by [FieldService](https://fieldservice.dk) — a Danish FSM platform integrated with e-conomic, Uniconta, and Microsoft 365.
+Maintained by [FieldService](https://fieldservice.dk?utm_source=github&utm_medium=oss&utm_campaign=fs-sim) — a Danish FSM platform integrated with [e-conomic](https://fieldservice.dk/integrationer/e-conomic/?utm_source=github&utm_medium=oss&utm_campaign=fs-sim), [Uniconta](https://fieldservice.dk/integrationer/uniconta/?utm_source=github&utm_medium=oss&utm_campaign=fs-sim), and Microsoft 365.
 
 ## What this is
 
@@ -15,7 +15,6 @@ The simulator uses a retro Mission Control aesthetic (IBM Plex Mono, scanline ov
 ## Live demo
 
 - Standalone: [https://fieldservice-dk.github.io/fieldservice-sim](https://fieldservice-dk.github.io/fieldservice-sim) (deployed via GitHub Pages)
-- Embedded on production site: [https://fieldservice.dk/simulator](https://fieldservice.dk/simulator)
 
 ## Features demonstrated
 
@@ -59,7 +58,7 @@ The simulator can be embedded in any page via:
 </iframe>
 ```
 
-For WordPress sites we provide a dedicated plugin — see [fieldservice-sim-wp](https://github.com/fieldservice-dk/fieldservice-sim-wp) (separate repository, coming soon).
+For WordPress sites: a dedicated plugin is in development — we'll link it here once published.
 
 ## Tech stack
 
@@ -100,4 +99,6 @@ Issues and pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING
 
 ## Sponsored by
 
-[**FieldService**](https://fieldservice.dk) — Danish field service management for service businesses that want to digitalize jobs, invoices, and dispatching with native e-conomic, Uniconta, and Microsoft 365 integration.
+[**FieldService**](https://fieldservice.dk?utm_source=github&utm_medium=oss&utm_campaign=fs-sim-sponsored) — Danish field service management for service businesses that want to digitalize jobs, invoices, and dispatching with native e-conomic, Uniconta, and Microsoft 365 integration.
+
+Want to see this dashboard with your own data? [Get a personalised demo →](https://fieldservice.dk/tilbud/?utm_source=github&utm_medium=oss&utm_campaign=fs-sim-cta)
